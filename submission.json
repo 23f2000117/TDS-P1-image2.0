@@ -1,0 +1,6 @@
+{
+  "prompt": "A small tailoring workshop, a tailor carefully fitting an extremely tight, perfectly shaped suit onto one mannequin, while several other mannequins nearby wear the same suit but it fits poorly or awkwardly, realistic environment, natural lighting, cinematic photography style, no text, no labels --no diagrams, no graphs, no AI visuals",
+  "model": "DALL·E 3",
+  "concept": "Overfitting",
+  "metaphor": "A suit tailored perfectly for one mannequin but failing on others represents a model fitting training data too closely and not generalizing."
+}
